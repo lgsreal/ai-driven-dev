@@ -22,6 +22,8 @@ O conceito de **AI Drift** refere-se à mudança de comportamento ou perda de qu
 | --- | --- | --- |
 | **Arquitetura & Refatoração** | **Claude 3.7 / 4.5 Sonnet** | Atualmente o mais confiável para não quebrar lógica em arquivos grandes. Tem menos tendência a "alucinar" dependências. |
 | **Lógica Pura & Algoritmos** | **DeepSeek V3 / R1** | Uso massivo de *Multi-Token Prediction* e foco técnico. É menos "policiado" por filtros morais que às vezes interferem na lógica de código. |
+| **Open Source / Local** | **Qwen 2.5-Coder** | O melhor modelo aberto para código hoje. Versátil e multilíngue. Atenção ao compliance em empresas com restrições a provedores chineses. |
+| **Autocomplete (FIM)** | **Codestral** | Especializado em "Fill-in-the-Middle" (FIM), ideal para extensões de IDE. É focado em código puro, sendo menos capaz em raciocínio lógico geral. |
 | **Análise de Repositório (Monorepo)** | **Gemini 2.0 / 3 Pro** | Janela de contexto massiva (2M+ tokens). É o que menos sofre para "lembrar" de uma função definida em outro módulo distante. |
 | **Scripts & Debug Rápido** | **GPT-5.2 / 4.1 Turbo** | Alta velocidade e excelente integração nativa com o ecossistema VS Code/Cursor, embora sofra mais com *drift* de segurança. |
 
