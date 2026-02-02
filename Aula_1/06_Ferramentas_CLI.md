@@ -23,6 +23,8 @@ As ferramentas de Linha de Comando (CLI) representam a evolução da produtivida
 * **Diferencial:** Possui um raciocínio superior para entender a arquitetura do projeto e tomar decisões autônomas com base no feedback do terminal (ex: rodar um teste, ler o erro e corrigir o código sozinho).
 * **Acesso:** [https://claude.com/product/claude-code](https://claude.com/product/claude-code)
 
+<img src="resources/claude_code.png" alt="Claude Code"/>
+
 ### 2. Gemini CLI (Google)
 
 Ferramenta focada em trazer a imensa janela de contexto do Gemini para automação via scripts.
@@ -30,6 +32,8 @@ Ferramenta focada em trazer a imensa janela de contexto do Gemini para automaç�
 * **O que faz:** Permite interagir com modelos Gemini (1.5 Pro/2.0 Flash) para análise de arquivos locais, geração de documentação e tradução de código em lote.
 * **Diferencial:** Ideal para processar arquivos gigantescos ou logs de erro massivos que não caberiam em outros modelos, aproveitando a integração nativa com o ecossistema Google Cloud.
 * **Acesso:** [https://geminicli.com/](https://geminicli.com/)
+
+<img src="resources/gemini-cli.jpg" alt="Gemini CLI"/>
 
 ### 3. Aider (Aider)
 
@@ -39,6 +43,8 @@ Um assistente de *pair programming* de código aberto que se conecta a quase qua
 * **Diferencial:** Cria um "mapa do repositório" para dar contexto à IA sem gastar muitos tokens. É altamente versátil, permitindo usar Claude 3.5, GPT-4o ou modelos locais via Ollama.
 * **Acesso:** [https://aider.chat/](https://aider.chat/)
 
+<img src="resources/aider.jpg" alt="Aider"/>
+
 ### 4. GitHub Copilot CLI (Microsoft)
 
 A extensão do Copilot para o ambiente de shell, focada em produtividade operacional.
@@ -47,6 +53,8 @@ A extensão do Copilot para o ambiente de shell, focada em produtividade operaci
 * **Diferencial:** Integração direta com a conta GitHub do desenvolvedor. É excelente para "traduzir" intenções (ex: "como listar processos na porta 8080?") em comandos executáveis.
 * **Acesso:** [https://github.com/features/copilot/cli/](https://github.com/features/copilot/cli/)
 
+<img src="resources/github-copilot-cli.jpg" alt="GitHub Copilot CLI"/>
+
 ### 5. Codex CLI (OpenAI)
 
 Uma interface simplificada para interagir com os modelos da OpenAI voltados para código diretamente do terminal.
@@ -54,6 +62,8 @@ Uma interface simplificada para interagir com os modelos da OpenAI voltados para
 * **O que faz:** Geração rápida de snippets, refatoração de arquivos isolados e explicações de código via linha de comando.
 * **Diferencial:** Focado em velocidade e simplicidade para desenvolvedores que já utilizam a API da OpenAI e desejam um atalho rápido no workflow diário.
 * **Acesso:** [https://developers.openai.com/codex/cli](https://developers.openai.com/codex/cli)
+
+<img src="resources/codex-cli.jpg" alt="Codex CLI"/>
 
 ---
 
