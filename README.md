@@ -1,51 +1,38 @@
-# AI-Driven Development
-*Prof MSc Luiz Real*
+# 🚀 AI-Driven Development
 
-> Curso sobre como integrar IA em todo o ciclo de vida de desenvolvimento (SDLC), com foco em **qualidade**, **segurança** e **velocidade**.
+![License](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)
+![Status](https://img.shields.io/badge/Status-WIP-yellow.svg)
 
----
-
-## Instruções
-
-- Acesse as aulas abaixo, avançando em ordem
-- Cada aula é um arquivo Markdown com conteúdo + recursos (imagens, códigos, etc.)
-- Sugestão: faça um fork/clone para anotar e versionar suas respostas/atividades
+> Guia prático para integrar Inteligência Artificial no **Ciclo de Vida de Desenvolvimento (SDLC)**, focando em **Qualidade**, **Segurança** e **Velocidade**.
 
 ---
 
-## Aulas
+## 📚 Trilha de Aprendizado
 
-- ✅ [Aula 1: A nova stack do desenvolvedor](Aula%201.md)
-- 🚧 Aula 2: IDEs "AI-First" e Fluxos de Trabalho Agentic
-- 🚧 Aula 3: AI no Pipeline: Qualidade, Segurança e Operações
-- 🚧 Aula 4: O Futuro e a Manutenção: Legacy Modernization & Arquitetura
+| Módulo | Tema | Conteúdo | Status |
+| :---: | :--- | :--- | :---: |
+| **01** | [**A nova stack do desenvolvedor**](Aula%201.md) | *Prompt Engineering, Patterns e Ferramentas (Chat/CLI)* | ✅ |
+| **02** | **IDEs "AI-First" & Agentic** | *Fluxos de trabalho com agentes autônomos* | 🚧 |
+| **03** | **AI no Pipeline** | *Qualidade, Segurança e Operações (DevSecOps)* | 🚧 |
+| **04** | **Legacy & Arquitetura** | *Modernização de legado e Design de Sistemas* | 🚧 |
 
----
+## 🎯 Instruções
 
-## Pré-requisitos (recomendado)
+1. **Sequencial**: Siga as aulas na ordem proposta.
+2. **Prático**: Cada aula contém teoria e arquivos de recursos. Faça um **fork** para versionar suas anotações.
+3. **Experimental**: Teste os prompts em diferentes modelos (OpenAI, Anthropic, Google) para sentir o *AI Drift*.
 
-- Conhecimentos básicos de desenvolvimento (Git, HTTP, APIs, noções de backend/frontend)
-- Familiaridade no uso de IDEs (ex.: IntelliJ/VSCode) e acesso a assistentes de IA (Chat/CLI/IDE)
-- Vontade de experimentar (e quebrar coisas em ambiente controlado)
+## 📋 Pré-requisitos
 
----
+*   **Fundamentos**: Git, HTTP, APIs e lógica de programação.
+*   **Ferramentas**: IDE (VS Code/IntelliJ) e acesso a um assistente de IA (Free ou Paid).
+*   **Mindset**: Disposição para iterar e refatorar código gerado por IA.
 
-## Sugestão de trilha de estudo
+## 👤 Autor
 
-1. Leia a aula
-2. Execute a prática proposta (quando houver)
-3. Registre aprendizados e prompts que funcionaram (e os que falharam)
-4. Envie suas considerações para melhoria do material
-
----
-
-## Licença
-
-Veja o arquivo [`LICENCE`](LICENCE)
+**Prof. MSc. Luiz Real**
+*   [LinkedIn](https://www.linkedin.com/in/lgsreal/)
+*   Dúvidas? Inicie uma [Discussion](../../discussions) ou entre em contato.
 
 ---
-
-## Contato
-
-- Professor: **Luiz Real**
-- E-mail disponível no perfil do GitHub
+*Licenciado sob [CC BY 4.0](LICENCE).*
