@@ -24,6 +24,7 @@
 * [Udemy 2026 Global Learning & Skills Trends Report](https://info.udemy.com/rs/273-CKQ-053/images/Udemy%202026%20Global%20Learning%20%26%20Skills%20Trends%20Report.pdf?version=0)
 * [Lost in the Middle: How Language Models Use Long Contexts](https://arxiv.org/abs/2307.03172)
 * [Prompt Engineering Overview - Claude Docs](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/overview)
+* [The 2025 AI Index Report - Stanford HAI](https://hai.stanford.edu/ai-index/2025-ai-index-report)
 
 ---
 [< Início](README.md)
