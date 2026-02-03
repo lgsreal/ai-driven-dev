@@ -1,5 +1,5 @@
 # Navegação
-[< Anterior](03_Prompt_Engineering_Padroes.md) | [Índice](../Aula%201.md) | [Próximo >](05_Ferramentas_de_Chat.md)
+[< Anterior](03_Prompt_Engineering_Padroes.md) | [Índice](../Aula%201.md) | [Próximo >](05_Discussao_AI_Drift.md)
 
 ---
 
@@ -38,4 +38,4 @@
 ---
 
 # Navegação
-[< Anterior](03_Prompt_Engineering_Padroes.md) | [Índice](../Aula%201.md) | [Próximo >](05_Ferramentas_de_Chat.md)
+[< Anterior](03_Prompt_Engineering_Padroes.md) | [Índice](../Aula%201.md) | [Próximo >](05_Discussao_AI_Drift.md)

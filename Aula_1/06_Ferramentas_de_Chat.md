@@ -1,5 +1,5 @@
 # Navegação
-[< Anterior](04_Prompt_Engineering_Antipadroes.md) | [Índice](../Aula%201.md) | [Próximo >](06_Ferramentas_CLI.md)
+[< Anterior](05_Discussao_AI_Drift.md) | [Índice](../Aula%201.md) | [Próximo >](07_Ferramentas_CLI.md)
 
 ---
 
@@ -83,4 +83,4 @@ Os assistentes de chat baseados em modelos de linguagem (LLMs) funcionam como o 
 ---
 
 # Navegação
-[< Anterior](04_Prompt_Engineering_Antipadroes.md) | [Índice](../Aula%201.md) | [Próximo >](06_Ferramentas_CLI.md)
+[< Anterior](05_Discussao_AI_Drift.md) | [Índice](../Aula%201.md) | [Próximo >](07_Ferramentas_CLI.md)

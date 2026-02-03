@@ -52,7 +52,7 @@ Você fornece alguns exemplos (shots) do formato de entrada e saída desejado an
     Exemplo 2: Entrada: delete product by code.
     Saída: public void deleteByCode(String code)...
     
-    Agora faça: Entrada: update inventory status.
+    Agora faça, exatamente como nos exemplos acima: Entrada: update inventory status.
     ```
 
 ### Chain-of-Thought (CoT)

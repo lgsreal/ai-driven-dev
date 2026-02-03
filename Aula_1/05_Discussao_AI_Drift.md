@@ -1,5 +1,5 @@
 # Navegação
-[< Anterior](06_Ferramentas_CLI.md) | [Índice](../Aula%201.md) | [Próximo >](08_Pratica_Site_Noticias.md)
+[< Anterior](04_Prompt_Engineering_Antipadroes.md) | [Índice](../Aula%201.md) | [Próximo >](06_Ferramentas_de_Chat.md)
 
 ---
 
@@ -36,4 +36,4 @@ O conceito de **AI Drift** refere-se à mudança de comportamento ou perda de qu
 ---
 
 # Navegação
-[< Anterior](06_Ferramentas_CLI.md) | [Índice](../Aula%201.md) | [Próximo >](08_Pratica_Site_Noticias.md)
+[< Anterior](04_Prompt_Engineering_Antipadroes.md) | [Índice](../Aula%201.md) | [Próximo >](06_Ferramentas_de_Chat.md)

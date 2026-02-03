@@ -1,5 +1,5 @@
 # Navegação
-[< Anterior](05_Ferramentas_de_Chat.md) | [Índice](../Aula%201.md) | [Próximo >](07_Discussao_AI_Drift.md)
+[< Anterior](06_Ferramentas_de_Chat.md) | [Índice](../Aula%201.md) | [Próximo >](08_Ferramentas_Geracao_Sites_Apps.md)
 
 ---
 
@@ -68,4 +68,4 @@ Uma interface simplificada para interagir com os modelos da OpenAI voltados para
 ---
 
 # Navegação
-[< Anterior](05_Ferramentas_de_Chat.md) | [Índice](../Aula%201.md) | [Próximo >](07_Discussao_AI_Drift.md)
+[< Anterior](06_Ferramentas_de_Chat.md) | [Índice](../Aula%201.md) | [Próximo >](08_Ferramentas_Geracao_Sites_Apps.md)

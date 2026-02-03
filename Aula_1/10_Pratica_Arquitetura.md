@@ -1,5 +1,5 @@
 # Navegação
-[< Anterior](08_Pratica_Site_Noticias.md) | [Índice](../Aula%201.md)
+[< Anterior](09_Pratica_Site_Noticias.md) | [Índice](../Aula%201.md)
 
 ---
 
@@ -16,9 +16,10 @@
   * Tecnologias sugeridas (pode ser genérico: "banco relacional", "framework web", etc.)
   * Fluxos principais (diagrama ou descrição textual)
 * **Entregável:**
-  * Documento PDF ou Markdown com diagramas (pode usar draw.io, Excalidraw, Mermaid, etc.) via Github
+  * Documento PDF ou Markdown com diagramas (pode usar draw.io, Excalidraw, Mermaid, etc.).
+  * Prompts utilizados para criar a arquitetura, indicando a ferramenta utilizada (ex: ChatGPT para as classes + Mermaid para os diagramas, etc.).
 
 ---
 
 # Navegação
-[< Anterior](08_Pratica_Site_Noticias.md) | [Índice](../Aula%201.md)
+[< Anterior](09_Pratica_Site_Noticias.md) | [Índice](../Aula%201.md)
