@@ -45,8 +45,8 @@ Fornece uma estrutura rígida para a resposta, facilitando o parse ou a leitura 
 
     ```
     Analise o código e responda seguindo estritamente este template:
-    Resumo da alteração:
-    Complexidade Ciclomática atual:
+    Problemas detectados:
+    Complexidade ciclomática atual:
     Sugestão de melhoria:
     Código refatorado:
     ```
