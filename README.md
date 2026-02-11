@@ -14,7 +14,7 @@
 | **01** | [**A nova stack do desenvolvedor**](Aula%201.md) | *Prompt Engineering, Patterns e Ferramentas (Chat/CLI)* | ✅ |
 | **02** | [**IDEs "AI-First" & Agentic**](Aula%202.md) | *Fluxos de trabalho com agentes autônomos* | ✅ |
 | **03** | [**AI no Pipeline**](Aula%203.md) | *Qualidade, Segurança e Operações (DevSecOps)* | ✅ |
-| **04** | **Legacy & Arquitetura** | *Modernização de legado e Design de Sistemas* | 🚧 |
+| **04** | [**Modernização e Refactoring com IA**](Aula%204.md) | *Modernização de Legado e Refatoração com IA* | ✅ |
 
 ## Instruções
 
@@ -37,6 +37,7 @@
 * [Lost in the Middle: How Language Models Use Long Contexts](https://arxiv.org/abs/2307.03172)
 * [Prompt Engineering Overview - Claude Docs](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/overview)
 * [The 2025 AI Index Report - Stanford HAI](https://hai.stanford.edu/ai-index/2025-ai-index-report)
+* [Free hands-on labs for Artificial Intelligence - MCP, LangChain, LangGraph, RAG, Gemini CLI](https://kodekloud.com/studio/labs/artificial-intelligence)
 ## Autor
 
 **Prof. MSc. Luiz Real**
