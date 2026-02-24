@@ -62,15 +62,16 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           OPENAI_API_KEY: ${{ secrets.AI_API_KEY }} # Funciona com Gemini via proxy ou OpenAI nativo
+          OPENAI_API_ENDPOINT: https://generativelanguage.googleapis.com/v1beta/openai
           LANGUAGE: Portuguese
-          MODEL: gpt-4o # Ajuste para o modelo configurado
+          MODEL: gemini-2.0-flash # Ajuste para o modelo configurado
           PROMPT: |
             Aja como um Engenheiro de Segurança Sênior (DevSecOps). 
             Analise o DIFF deste Pull Request buscando:
             1. Vulnerabilidades OWASP Top 10 (especialmente SQL Injection e Insecure Deserialization).
             2. Code Smells e complexidade ciclomática desnecessária.
             3. Aderência às melhores práticas de Java 25 e Spring Boot 3.4.
-            4. Responda com comentários técnicos e construtivos diretamente nas linhas do código afetado.
+            4. Responda em Português com comentários técnicos e construtivos diretamente nas linhas do código afetado.
 
 ```
 
