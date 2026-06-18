@@ -32,7 +32,7 @@ Nunca coloque chaves de API diretamente no código!
 
 1. No seu fork do GNews, vá em **Settings** > **Secrets and variables** > **Actions**.
 2. Clique em **New repository secret**.
-3. Nomeie como `AI_API_KEY` e cole o valor da sua chave.
+3. Nomeie como `GEMINI_API_KEY` e cole o valor da sua chave.
 
 ### 3. Criação do Workflow de Revisão
 
