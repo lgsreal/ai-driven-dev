@@ -43,14 +43,16 @@ name: AI Code Review
 
 on:
   pull_request:
-    types: [opened, synchronize]
+    types: [opened, reopened, synchronize]
+
+permissions:
+  contents: read
+  pull-requests: write
 
 jobs:
   review:
     runs-on: ubuntu-latest
-    permissions:
-      contents: read
-      pull-requests: write # Necessário para comentar no PR
+
     steps:
       - name: Checkout Repo
         uses: actions/checkout@v4
@@ -58,21 +60,21 @@ jobs:
           fetch-depth: 0
 
       - name: AI Reviewer
-        uses: anc95/ChatGPT-CodeReview@main # Action que orquestra a revisão
+        uses: anc95/ChatGPT-CodeReview@v1.0.24
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           OPENAI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           OPENAI_API_ENDPOINT: https://generativelanguage.googleapis.com/v1beta/openai/
           LANGUAGE: Portuguese
-          MODEL: gemini-2.5-flash
+          MODEL: gemini-flash-lite-latest
+          max_tokens: 10000
           PROMPT: |
-            Aja como um Engenheiro de Segurança Sênior (DevSecOps). 
-            Analise o DIFF deste Pull Request buscando:
-            1. Vulnerabilidades OWASP Top 10 (especialmente SQL Injection e Insecure Deserialization).
-            2. Code Smells e complexidade ciclomática desnecessária.
+            Aja como um Engenheiro de Segurança Sênior (DevSecOps).
+            Analise o diff deste Pull Request buscando:
+            1. Vulnerabilidades OWASP Top 10, especialmente SQL Injection e Insecure Deserialization.
+            2. Code smells e complexidade ciclomática desnecessária.
             3. Aderência às melhores práticas de Java 25 e Spring Boot 3.4.
-            4. Responda com comentários técnicos e construtivos diretamente nas linhas do código afetado.
-
+            4. Comente diretamente nas linhas afetadas, com explicações técnicas, construtivas e sugestões de correção.
 ```
 
 ---
